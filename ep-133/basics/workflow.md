@@ -2,7 +2,7 @@
 title: "Understand the Structure"
 ---
 
-ko ii organizes your music in layers. here's how it works:
+KO II organizes your music in layers. here's how it works:
 
 project (9 total) - like a song file, stores everything
 - hold [main] + pad 1-9 to load a project
