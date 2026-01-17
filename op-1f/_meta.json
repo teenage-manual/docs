@@ -1,5 +1,6 @@
 {
   "name": "OP-1 Field",
   "image": "te-op-1f.png",
-  "orientation": "horizontal"
+  "orientation": "horizontal",
+  "categoryOrder": ["basics", "synthesis", "sampling", "tape", "connectivity", "advanced"]
 }

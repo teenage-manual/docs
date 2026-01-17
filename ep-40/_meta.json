@@ -1,5 +1,6 @@
 {
   "name": "EP-40 Riddim",
   "image": "te-ep-40.png",
-  "orientation": "horizontal"
+  "orientation": "horizontal",
+  "categoryOrder": ["basics", "synthesis", "sampling", "sequencing", "effects", "advanced"]
 }

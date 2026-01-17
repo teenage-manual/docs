@@ -1,5 +1,6 @@
 {
   "name": "CM-15",
   "image": "te-cm-15.png",
-  "orientation": "vertical"
+  "orientation": "vertical",
+  "categoryOrder": ["basics", "recording", "connectivity"]
 }

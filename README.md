@@ -90,13 +90,15 @@ Each device folder contains a `_meta.json` file:
 {
   "name": "Device Display Name",
   "image": "te-device-slug.png",
-  "orientation": "horizontal"
+  "orientation": "horizontal",
+  "categoryOrder": ["basics", "sampling", "sequencing", "effects", "advanced"]
 }
 ```
 
 - `name` - Display name shown on the site
 - `image` - Device image filename (in `images/` folder)
 - `orientation` - Either `horizontal` or `vertical` (affects layout)
+- `categoryOrder` - Order of categories in the sidebar (categories not listed appear at the end)
 
 ### Adding Images
 

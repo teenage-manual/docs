@@ -1,5 +1,6 @@
 {
   "name": "OP-XY",
   "image": "te-op-xy.png",
-  "orientation": "horizontal"
+  "orientation": "horizontal",
+  "categoryOrder": ["basics", "sampling", "sequencing", "effects"]
 }
