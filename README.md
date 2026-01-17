@@ -32,6 +32,8 @@ ep-133/
 2. Edit or add a markdown file in the relevant device folder
 3. Submit a pull request
 
+When a PR is merged, the site automatically rebuilds and deploys with your changes.
+
 ### File Format
 
 Each markdown file should have YAML frontmatter:
