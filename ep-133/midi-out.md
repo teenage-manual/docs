@@ -1,5 +1,5 @@
 ---
-title: "MIDI Output per Pad"
+title: "Midi Output Per Pad"
 category: "advanced"
 ---
 

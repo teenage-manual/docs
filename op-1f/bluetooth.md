@@ -1,5 +1,5 @@
 ---
-title: "Bluetooth MIDI"
+title: "Bluetooth Midi"
 category: "connectivity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "usb-c recording"
+title: "Usb-c Recording"
 category: "recording"
 ---
 

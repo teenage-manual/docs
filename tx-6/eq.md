@@ -1,5 +1,5 @@
 ---
-title: "Using the EQ"
+title: "Using the Eq"
 category: "mixing"
 ---
 

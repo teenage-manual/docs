@@ -1,5 +1,5 @@
 ---
-title: "status LED guide"
+title: "Status Led Guide"
 category: "basics"
 ---
 

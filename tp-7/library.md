@@ -1,5 +1,5 @@
 ---
-title: "managing files"
+title: "Managing Files"
 category: "basics"
 ---
 

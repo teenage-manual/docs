@@ -1,5 +1,5 @@
 ---
-title: "xlr recording"
+title: "Xlr Recording"
 category: "recording"
 ---
 

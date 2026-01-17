@@ -1,5 +1,5 @@
 ---
-title: "loop playback"
+title: "Loop Playback"
 category: "advanced"
 ---
 

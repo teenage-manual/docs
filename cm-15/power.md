@@ -1,5 +1,5 @@
 ---
-title: "power options"
+title: "Power Options"
 category: "basics"
 ---
 

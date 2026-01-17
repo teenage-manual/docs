@@ -1,5 +1,5 @@
 ---
-title: "What's New vs Original OP-1"
+title: "What's New Vs Original Op-1"
 category: "basics"
 ---
 

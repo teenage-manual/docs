@@ -1,5 +1,5 @@
 ---
-title: "usb-c audio"
+title: "Usb-c Audio"
 category: "connectivity"
 ---
 

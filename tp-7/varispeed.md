@@ -1,5 +1,5 @@
 ---
-title: "varispeed (speed control)"
+title: "Varispeed (speed Control)"
 category: "advanced"
 ---
 

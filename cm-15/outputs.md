@@ -1,5 +1,5 @@
 ---
-title: "output connections"
+title: "Output Connections"
 category: "connectivity"
 ---
 

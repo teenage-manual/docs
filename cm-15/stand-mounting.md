@@ -1,5 +1,5 @@
 ---
-title: "mounting options"
+title: "Mounting Options"
 category: "basics"
 ---
 

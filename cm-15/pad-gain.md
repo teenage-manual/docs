@@ -1,5 +1,5 @@
 ---
-title: "pad and gain switch"
+title: "Pad and Gain Switch"
 category: "recording"
 ---
 

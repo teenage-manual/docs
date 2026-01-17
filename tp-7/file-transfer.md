@@ -1,5 +1,5 @@
 ---
-title: "transferring files"
+title: "Transferring Files"
 category: "connectivity"
 ---
 

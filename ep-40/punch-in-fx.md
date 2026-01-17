@@ -1,5 +1,5 @@
 ---
-title: "Punch-In FX"
+title: "Punch-in Fx"
 category: "effects"
 ---
 

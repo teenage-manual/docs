@@ -1,5 +1,5 @@
 ---
-title: "Built-In Effects"
+title: "Built-in Effects"
 category: "effects"
 ---
 

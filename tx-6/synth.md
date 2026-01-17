@@ -1,5 +1,5 @@
 ---
-title: "Built-In Synthesizer"
+title: "Built-in Synthesizer"
 category: "synthesis"
 ---
 

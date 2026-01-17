@@ -1,5 +1,5 @@
 ---
-title: "microphone positioning"
+title: "Microphone Positioning"
 category: "recording"
 ---
 

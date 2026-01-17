@@ -1,5 +1,5 @@
 ---
-title: "USB Audio Interface"
+title: "Usb Audio Interface"
 category: "connectivity"
 ---
 

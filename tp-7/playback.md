@@ -1,5 +1,5 @@
 ---
-title: "playback and scrubbing"
+title: "Playback and Scrubbing"
 category: "basics"
 ---
 

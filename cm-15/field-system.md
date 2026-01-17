@@ -1,5 +1,5 @@
 ---
-title: "field system integration"
+title: "Field System Integration"
 category: "connectivity"
 ---
 

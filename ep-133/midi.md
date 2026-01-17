@@ -1,5 +1,5 @@
 ---
-title: "MIDI Connections"
+title: "Midi Connections"
 category: "advanced"
 ---
 
