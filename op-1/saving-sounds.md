@@ -1,5 +1,6 @@
 ---
 title: "Save and Load Sounds"
+category: "basics"
 ---
 
 save your synth/drum patches:

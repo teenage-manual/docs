@@ -1,5 +1,6 @@
 ---
 title: "Copy and Paste"
+category: "advanced"
 ---
 
 copy/paste - duplicate bars, patterns, or sounds

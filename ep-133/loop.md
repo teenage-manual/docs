@@ -1,5 +1,6 @@
 ---
 title: "Loop Function"
+category: "advanced"
 ---
 
 loop - repeat a section of your pattern on the fly during performance

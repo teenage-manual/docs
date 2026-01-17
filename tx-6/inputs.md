@@ -1,5 +1,6 @@
 ---
 title: "Connecting Inputs"
+category: "basics"
 ---
 
 tx-6 has 6 x 3.5mm stereo inputs:

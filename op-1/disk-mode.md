@@ -1,5 +1,6 @@
 ---
 title: "Disk Mode (Connect to Computer)"
+category: "connectivity"
 ---
 
 transfer files between op-1 and computer:

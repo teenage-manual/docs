@@ -1,5 +1,6 @@
 ---
 title: "Envelope (Attack/Release)"
+category: "sampling"
 ---
 
 envelope - controls how sounds fade in and out over time

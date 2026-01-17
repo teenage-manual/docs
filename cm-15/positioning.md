@@ -1,5 +1,6 @@
 ---
 title: "microphone positioning"
+category: "recording"
 ---
 
 get the best sound from cm-15:

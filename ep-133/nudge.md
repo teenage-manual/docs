@@ -1,5 +1,6 @@
 ---
 title: "Nudge Notes"
+category: "sequencing"
 ---
 
 nudge - moves a note earlier or later in time without deleting and re-recording

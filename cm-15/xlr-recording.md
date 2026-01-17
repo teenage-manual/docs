@@ -1,5 +1,6 @@
 ---
 title: "xlr recording"
+category: "recording"
 ---
 
 use mini XLR for pro setups:

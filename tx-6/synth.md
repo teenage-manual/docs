@@ -1,5 +1,6 @@
 ---
 title: "Built-In Synthesizer"
+category: "synthesis"
 ---
 
 tx-6 has a hidden synthesizer:

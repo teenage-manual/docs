@@ -1,5 +1,6 @@
 ---
 title: "Latin Button Guide"
+category: "basics"
 ---
 
 ep-1320 uses medieval latin labels - here's your rosetta stone:

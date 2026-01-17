@@ -1,5 +1,6 @@
 ---
 title: "Built-In Synthesizer"
+category: "synthesis"
 ---
 
 synth - ep-40 has a built-in bass/lead synthesizer for authentic dub sounds

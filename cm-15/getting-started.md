@@ -1,5 +1,6 @@
 ---
 title: "Getting Started"
+category: "basics"
 ---
 
 cm-15 - portable condenser microphone:

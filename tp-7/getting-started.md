@@ -1,5 +1,6 @@
 ---
 title: "Getting Started"
+category: "basics"
 ---
 
 tp-7 - field recorder with motorized reel:

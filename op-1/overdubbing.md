@@ -1,5 +1,6 @@
 ---
 title: "Overdubbing"
+category: "tape"
 ---
 
 add layers to existing recordings:

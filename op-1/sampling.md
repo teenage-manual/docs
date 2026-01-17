@@ -1,5 +1,6 @@
 ---
 title: "Sampling Sounds"
+category: "sampling"
 ---
 
 sample external audio or the built-in mic:

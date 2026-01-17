@@ -1,5 +1,6 @@
 ---
 title: "Output Compressor"
+category: "effects"
 ---
 
 output compressor - master compression on the final mix (separate from effects)

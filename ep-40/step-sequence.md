@@ -1,5 +1,6 @@
 ---
 title: "Step Sequencing"
+category: "sequencing"
 ---
 
 step sequencing - program notes one step at a time, like classic drum machines

@@ -1,5 +1,6 @@
 ---
 title: "Synth Mode Basics"
+category: "synthesis"
 ---
 
 press [synth] to enter synthesizer mode

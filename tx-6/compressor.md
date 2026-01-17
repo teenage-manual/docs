@@ -1,5 +1,6 @@
 ---
 title: "Compressor and Limiter"
+category: "mixing"
 ---
 
 tx-6 includes dynamics processing:

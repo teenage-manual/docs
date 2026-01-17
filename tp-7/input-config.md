@@ -1,5 +1,6 @@
 ---
 title: "Input Configuration"
+category: "recording"
 ---
 
 tp-7 input options:

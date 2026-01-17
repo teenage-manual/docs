@@ -1,5 +1,6 @@
 ---
 title: "Punch-In FX 2.0"
+category: "effects"
 ---
 
 punch-in fx - instant performance effects triggered by holding pads

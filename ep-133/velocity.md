@@ -1,5 +1,6 @@
 ---
 title: "Velocity Sensitivity"
+category: "advanced"
 ---
 
 velocity - how hard you hit affects how loud the sound plays

@@ -1,5 +1,6 @@
 ---
 title: "Getting Started"
+category: "basics"
 ---
 
 ep-40 riddim - a reggae/dub-focused sampler in the ko ii family

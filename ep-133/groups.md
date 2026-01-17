@@ -1,5 +1,6 @@
 ---
 title: "Working with Groups"
+category: "basics"
 ---
 
 groups are like sections of a band - drums, bass, melody, etc.

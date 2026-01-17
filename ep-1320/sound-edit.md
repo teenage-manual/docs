@@ -1,5 +1,6 @@
 ---
 title: "Sound Edit (Sonus)"
+category: "sampling"
 ---
 
 sound edit - access all parameters for the selected pad's sound

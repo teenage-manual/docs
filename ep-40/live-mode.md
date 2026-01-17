@@ -1,5 +1,6 @@
 ---
 title: "Live Dub Mixing"
+category: "advanced"
 ---
 
 live dub mixing - ep-40 shines for real-time dub performance (this is how classic dub was made!)

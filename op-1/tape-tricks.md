@@ -1,5 +1,6 @@
 ---
 title: "Tape Tricks"
+category: "tape"
 ---
 
 creative tape techniques:

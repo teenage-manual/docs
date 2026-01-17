@@ -1,5 +1,6 @@
 ---
 title: "Maestro Player"
+category: "sequencing"
 ---
 
 maestro is an intelligent chord player:

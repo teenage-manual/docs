@@ -1,5 +1,6 @@
 ---
 title: "Bluetooth MIDI"
+category: "connectivity"
 ---
 
 connect wirelessly via bluetooth:

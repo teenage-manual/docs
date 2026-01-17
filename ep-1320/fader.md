@@ -1,5 +1,6 @@
 ---
 title: "Faedr (Fader) Functions"
+category: "basics"
 ---
 
 faedr - the physical slider controls different parameters for each group

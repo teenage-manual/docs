@@ -1,5 +1,6 @@
 ---
 title: "Live Recording"
+category: "sequencing"
 ---
 
 record your performance in real-time:

@@ -1,5 +1,6 @@
 ---
 title: "Play Modes (One-Shot, Key, Legato)"
+category: "sampling"
 ---
 
 play mode - determines how a sound behaves when you trigger it

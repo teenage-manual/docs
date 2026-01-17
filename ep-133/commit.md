@@ -1,5 +1,6 @@
 ---
 title: "Commit and Scenes"
+category: "basics"
 ---
 
 a scene saves which patterns all 4 groups are playing - like a bookmark for your arrangement.

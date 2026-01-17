@@ -1,5 +1,6 @@
 ---
 title: "Erasing"
+category: "sequencing"
 ---
 
 erase - multiple ways to delete notes, patterns, and samples

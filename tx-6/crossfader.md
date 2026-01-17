@@ -1,5 +1,6 @@
 ---
 title: "Crossfader"
+category: "mixing"
 ---
 
 tx-6 has a built-in crossfader:

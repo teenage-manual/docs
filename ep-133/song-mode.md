@@ -1,5 +1,6 @@
 ---
 title: "Song Mode"
+category: "advanced"
 ---
 
 song mode - chain scenes into a full arrangement that plays automatically

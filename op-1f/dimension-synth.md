@@ -1,5 +1,6 @@
 ---
 title: "Dimension Synth Engine"
+category: "synthesis"
 ---
 
 dimension is a new stereo synth engine:

@@ -1,5 +1,6 @@
 ---
 title: "Mixer and Effects"
+category: "mixing"
 ---
 
 press [mixer] to enter mixer mode

@@ -1,5 +1,6 @@
 ---
 title: "Record to Tape"
+category: "tape"
 ---
 
 1. press [tape] to enter tape mode

@@ -1,5 +1,6 @@
 ---
 title: "Mute Groups (Choke)"
+category: "sampling"
 ---
 
 mute group - makes sounds cut each other off when triggered

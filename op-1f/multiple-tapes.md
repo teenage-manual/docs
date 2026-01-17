@@ -1,5 +1,6 @@
 ---
 title: "Managing Multiple Tapes"
+category: "tape"
 ---
 
 op-1 field can store multiple tapes:

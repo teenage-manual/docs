@@ -1,5 +1,6 @@
 ---
 title: "usb-c audio"
+category: "connectivity"
 ---
 
 use tp-7 as usb audio device:

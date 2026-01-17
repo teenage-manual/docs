@@ -1,5 +1,6 @@
 ---
 title: "transferring files"
+category: "connectivity"
 ---
 
 move files to/from computer:

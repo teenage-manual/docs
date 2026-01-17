@@ -1,5 +1,6 @@
 ---
 title: "Pocus (Punch-In Effects)"
+category: "effects"
 ---
 
 pocus - instant performance effects triggered by holding pads

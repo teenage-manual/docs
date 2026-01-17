@@ -1,5 +1,6 @@
 ---
 title: "Step Components"
+category: "sequencing"
 ---
 
 step components add variation to steps:

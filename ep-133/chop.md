@@ -1,5 +1,6 @@
 ---
 title: "Chop Samples"
+category: "sampling"
 ---
 
 chopping - slice a longer sample across multiple pads to play back sections

@@ -1,5 +1,6 @@
 ---
 title: "Understand the Structure"
+category: "basics"
 ---
 
 ep-1320 organizes music in the same layers as ko ii:

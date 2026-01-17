@@ -1,5 +1,6 @@
 ---
 title: "Cue Monitoring"
+category: "mixing"
 ---
 
 preview channels before sending to main:

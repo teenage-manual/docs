@@ -1,5 +1,6 @@
 ---
 title: "Getting Started"
+category: "basics"
 ---
 
 1. charge via usb-c (allow full charge first time)

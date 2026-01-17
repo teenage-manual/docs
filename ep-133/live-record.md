@@ -1,5 +1,6 @@
 ---
 title: "Live Recording"
+category: "sequencing"
 ---
 
 live recording means playing pads in real-time while the sequencer captures what you do.

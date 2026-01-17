@@ -1,5 +1,6 @@
 ---
 title: "Stereo Sampling"
+category: "sampling"
 ---
 
 op-1 field samples in stereo:

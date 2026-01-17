@@ -1,5 +1,6 @@
 ---
 title: "loop playback"
+category: "advanced"
 ---
 
 loop a section of audio:

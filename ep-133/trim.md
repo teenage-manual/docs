@@ -1,5 +1,6 @@
 ---
 title: "Trim Samples"
+category: "sampling"
 ---
 
 trimming - set where a sample starts and ends playback

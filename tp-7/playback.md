@@ -1,5 +1,6 @@
 ---
 title: "playback and scrubbing"
+category: "basics"
 ---
 
 playing back recordings:

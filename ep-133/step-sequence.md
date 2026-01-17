@@ -1,5 +1,6 @@
 ---
 title: "Step Sequencing"
+category: "sequencing"
 ---
 
 step sequencing means programming notes one step at a time - like classic drum machines.

@@ -1,5 +1,6 @@
 ---
 title: "What's New vs Original OP-1"
+category: "basics"
 ---
 
 op-1 field improvements:

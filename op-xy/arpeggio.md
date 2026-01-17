@@ -1,5 +1,6 @@
 ---
 title: "Arpeggio Player"
+category: "sequencing"
 ---
 
 the arpeggio player creates automatic patterns:

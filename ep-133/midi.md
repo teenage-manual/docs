@@ -1,5 +1,6 @@
 ---
 title: "MIDI Connections"
+category: "advanced"
 ---
 
 midi - connect ko ii to other gear, computers, and controllers

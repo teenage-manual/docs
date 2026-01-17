@@ -1,5 +1,6 @@
 ---
 title: "Make Your First Beat"
+category: "basics"
 ---
 
 let's make something from scratch:

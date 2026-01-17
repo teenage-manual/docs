@@ -1,5 +1,6 @@
 ---
 title: "field system integration"
+category: "connectivity"
 ---
 
 cm-15 works with other field system devices:

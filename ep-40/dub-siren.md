@@ -1,5 +1,6 @@
 ---
 title: "Dub Siren"
+category: "effects"
 ---
 
 dub siren - the classic sound system effect, built right in

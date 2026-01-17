@@ -1,5 +1,6 @@
 ---
 title: "Bluetooth MIDI"
+category: "connectivity"
 ---
 
 tx-6 supports bluetooth MIDI:

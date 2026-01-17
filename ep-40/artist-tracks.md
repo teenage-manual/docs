@@ -1,5 +1,6 @@
 ---
 title: "Artist Tracks"
+category: "sampling"
 ---
 
 artist tracks -8 professional reggae/dub tracks with separated stems for remixing

@@ -1,5 +1,6 @@
 ---
 title: "pad and gain switch"
+category: "recording"
 ---
 
 cm-15 has a ±18dB pad/gain switch:

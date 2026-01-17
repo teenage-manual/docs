@@ -1,5 +1,6 @@
 ---
 title: "managing files"
+category: "basics"
 ---
 
 browse and manage recordings:

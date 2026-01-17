@@ -1,5 +1,6 @@
 ---
 title: "Step Sequencing"
+category: "sequencing"
 ---
 
 create patterns step by step:

@@ -1,5 +1,6 @@
 ---
 title: "USB Audio Interface"
+category: "connectivity"
 ---
 
 use op-1 field as a usb audio interface:

@@ -1,5 +1,6 @@
 ---
 title: "Master Effects"
+category: "effects"
 ---
 
 apply effects to your final mix:

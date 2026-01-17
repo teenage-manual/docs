@@ -1,5 +1,6 @@
 ---
 title: "Built-In Effects"
+category: "effects"
 ---
 
 tx-6 has 2 stereo multi-effect units:

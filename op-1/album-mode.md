@@ -1,5 +1,6 @@
 ---
 title: "Render to Album"
+category: "advanced"
 ---
 
 export your song as an audio file:

@@ -1,5 +1,6 @@
 ---
 title: "mounting options"
+category: "basics"
 ---
 
 cm-15 mounting solutions:

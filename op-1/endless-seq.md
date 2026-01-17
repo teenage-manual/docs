@@ -1,5 +1,6 @@
 ---
 title: "Endless Sequencer"
+category: "sequencing"
 ---
 
 the endless sequencer is a looping recorder:

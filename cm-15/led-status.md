@@ -1,5 +1,6 @@
 ---
 title: "status LED guide"
+category: "basics"
 ---
 
 cm-15 LED indicators:

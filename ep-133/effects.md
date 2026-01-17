@@ -1,5 +1,6 @@
 ---
 title: "Master Effects"
+category: "effects"
 ---
 
 master effect - one global effect that all groups can send to

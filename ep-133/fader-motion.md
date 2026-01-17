@@ -1,5 +1,6 @@
 ---
 title: "Record Fader Motion"
+category: "advanced"
 ---
 
 fader motion - record fader movements as automation in your pattern

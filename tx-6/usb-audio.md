@@ -1,5 +1,6 @@
 ---
 title: "USB Audio Interface"
+category: "connectivity"
 ---
 
 use tx-6 as a 12-channel usb interface:

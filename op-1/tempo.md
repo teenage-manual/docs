@@ -1,5 +1,6 @@
 ---
 title: "Tempo and Sync"
+category: "advanced"
 ---
 
 set and sync tempo:

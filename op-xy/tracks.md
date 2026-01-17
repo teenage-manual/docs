@@ -1,5 +1,6 @@
 ---
 title: "Working with Tracks"
+category: "basics"
 ---
 
 op-xy has 4 tracks (T1-T4):

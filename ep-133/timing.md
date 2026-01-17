@@ -1,5 +1,6 @@
 ---
 title: "Timing, Quantize and Swing"
+category: "sequencing"
 ---
 
 timing controls how notes align to the grid - essential for tight beats or loose grooves.

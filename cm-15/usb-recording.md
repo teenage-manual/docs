@@ -1,5 +1,6 @@
 ---
 title: "usb-c recording"
+category: "recording"
 ---
 
 record directly via usb-c:

@@ -1,5 +1,6 @@
 ---
 title: "Patterns Explained"
+category: "sequencing"
 ---
 
 a pattern is a recorded sequence - your drum loop, bass line, melody, etc.

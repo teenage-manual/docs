@@ -1,5 +1,6 @@
 ---
 title: "Tempo and Time Signature"
+category: "basics"
 ---
 
 tempo - the speed of your project in BPM (beats per minute)

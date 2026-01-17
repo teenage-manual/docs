@@ -1,5 +1,6 @@
 ---
 title: "Time Stretching"
+category: "sampling"
 ---
 
 time stretch - makes samples sync to your project tempo automatically

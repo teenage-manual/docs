@@ -1,5 +1,6 @@
 ---
 title: "Understand the Structure"
+category: "basics"
 ---
 
 ep-40 organizes music in the same layers as ko ii:

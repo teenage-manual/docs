@@ -1,5 +1,6 @@
 ---
 title: "Tape Styles"
+category: "tape"
 ---
 
 op-1 field has 4 tape styles:

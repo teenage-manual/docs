@@ -1,5 +1,6 @@
 ---
 title: "Drum Mode"
+category: "sampling"
 ---
 
 press [drum] to enter drum mode

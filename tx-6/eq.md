@@ -1,5 +1,6 @@
 ---
 title: "Using the EQ"
+category: "mixing"
 ---
 
 tx-6 has a 3-band EQ:

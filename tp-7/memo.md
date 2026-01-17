@@ -1,5 +1,6 @@
 ---
 title: "Quick Memo Recording"
+category: "recording"
 ---
 
 memo mode for quick voice notes:

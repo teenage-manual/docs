@@ -1,5 +1,6 @@
 ---
 title: "Sequencers Overview"
+category: "sequencing"
 ---
 
 op-1 has 4 sequencer types:

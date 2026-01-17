@@ -1,5 +1,6 @@
 ---
 title: "Understand the Structure"
+category: "basics"
 ---
 
 ko ii organizes your music in layers. here's how it works:

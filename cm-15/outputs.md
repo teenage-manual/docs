@@ -1,5 +1,6 @@
 ---
 title: "output connections"
+category: "connectivity"
 ---
 
 cm-15 has 3 simultaneous outputs:

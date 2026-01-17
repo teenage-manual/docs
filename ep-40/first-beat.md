@@ -1,5 +1,6 @@
 ---
 title: "Make Your First Beat"
+category: "basics"
 ---
 
 let's make a riddim from scratch:

@@ -1,5 +1,6 @@
 ---
 title: "Sync with Other Gear"
+category: "advanced"
 ---
 
 sync - connect multiple devices to play in time together

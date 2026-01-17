@@ -1,5 +1,6 @@
 ---
 title: "Fader Functions"
+category: "basics"
 ---
 
 fader - the physical slider controls different parameters for each group

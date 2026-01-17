@@ -1,5 +1,6 @@
 ---
 title: "Sampling (Exemp)"
+category: "sampling"
 ---
 
 sampling - record audio from the mic or line input into the device

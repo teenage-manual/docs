@@ -1,5 +1,6 @@
 ---
 title: "Sampling Sounds"
+category: "sampling"
 ---
 
 sample your own sounds:

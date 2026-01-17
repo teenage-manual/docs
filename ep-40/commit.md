@@ -1,5 +1,6 @@
 ---
 title: "Commit and Scenes"
+category: "basics"
 ---
 
 scene - a snapshot that remembers which patterns all 4 groups are playing

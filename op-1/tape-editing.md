@@ -1,5 +1,6 @@
 ---
 title: "Tape Editing"
+category: "tape"
 ---
 
 edit your tape recordings:

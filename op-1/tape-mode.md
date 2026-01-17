@@ -1,5 +1,6 @@
 ---
 title: "Tape Mode Basics"
+category: "tape"
 ---
 
 press [tape] to enter tape mode

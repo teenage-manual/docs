@@ -1,5 +1,6 @@
 ---
 title: "Getting Started"
+category: "basics"
 ---
 
 tx-6 - ultra-portable mixer:

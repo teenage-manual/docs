@@ -1,5 +1,6 @@
 ---
 title: "Outputs Explained"
+category: "basics"
 ---
 
 tx-6 has 3 outputs:

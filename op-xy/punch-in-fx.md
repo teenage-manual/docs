@@ -1,5 +1,6 @@
 ---
 title: "Punch-In FX"
+category: "effects"
 ---
 
 add real-time effects while playing:

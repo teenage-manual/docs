@@ -1,5 +1,6 @@
 ---
 title: "Live Recording"
+category: "sequencing"
 ---
 
 live recording - play pads in real-time while the sequencer captures what you do

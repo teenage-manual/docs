@@ -1,5 +1,6 @@
 ---
 title: "Synth Engines"
+category: "synthesis"
 ---
 
 op-1 has many synth engines:

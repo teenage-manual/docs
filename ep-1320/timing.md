@@ -1,5 +1,6 @@
 ---
 title: "Quantum (Timing and Swing)"
+category: "sequencing"
 ---
 
 quantum - controls how notes align to the grid (essential for tight beats or loose grooves)

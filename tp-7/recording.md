@@ -1,5 +1,6 @@
 ---
 title: "Recording Audio"
+category: "recording"
 ---
 
 to record on tp-7:

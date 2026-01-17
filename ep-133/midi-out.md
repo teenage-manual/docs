@@ -1,5 +1,6 @@
 ---
 title: "MIDI Output per Pad"
+category: "advanced"
 ---
 
 midi output - each pad can send MIDI notes to external gear

@@ -1,5 +1,6 @@
 ---
 title: "Projects and Saving"
+category: "basics"
 ---
 
 op-xy saves everything automatically

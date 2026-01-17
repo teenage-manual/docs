@@ -1,5 +1,6 @@
 ---
 title: "FM Radio"
+category: "advanced"
 ---
 
 op-1 field has FM radio receive AND transmit:

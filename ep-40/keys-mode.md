@@ -1,5 +1,6 @@
 ---
 title: "Keys Mode"
+category: "basics"
 ---
 
 keys mode - turns the 12 pads into a chromatic keyboard (essential for bass lines!)

@@ -1,5 +1,6 @@
 ---
 title: "power options"
+category: "basics"
 ---
 
 cm-15 flexible power system:

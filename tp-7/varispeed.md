@@ -1,5 +1,6 @@
 ---
 title: "varispeed (speed control)"
+category: "advanced"
 ---
 
 change playback speed:
