@@ -2,5 +2,12 @@
   "name": "KO II",
   "image": "te-ep-133.png",
   "orientation": "horizontal",
-  "categoryOrder": ["basics", "sampling", "sequencing", "effects", "advanced"]
+  "categoryOrder": ["basics", "sampling", "sequencing", "effects", "advanced"],
+  "topicOrder": {
+    "basics": ["workflow", "first-beat", "groups", "tempo", "fader", "keys-mode", "commit"],
+    "sampling": ["sampling", "trim", "sound-edit", "chop", "sound-modes", "envelope", "mute-groups", "time-stretch"],
+    "sequencing": ["patterns", "live-record", "step-sequence", "timing", "nudge", "erase"],
+    "effects": ["effects", "punch-in-fx", "output-comp"],
+    "advanced": ["copy-paste", "loop", "fader-motion", "song-mode", "velocity", "sync", "midi", "midi-out"]
+  }
 }
