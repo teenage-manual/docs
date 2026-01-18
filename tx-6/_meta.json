@@ -1,6 +1,6 @@
 {
   "name": "TX-6",
-  "image": "te-tx-6.png",
+  "image": "te-tx-6.webp",
   "orientation": "horizontal",
   "categoryOrder": ["basics", "mixing", "effects", "synthesis", "connectivity"]
 }

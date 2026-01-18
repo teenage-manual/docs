@@ -1,6 +1,6 @@
 {
   "name": "EP-1320 Medieval",
-  "image": "te-ep-1320.png",
+  "image": "te-ep-1320.webp",
   "orientation": "horizontal",
   "categoryOrder": ["basics", "sampling", "sequencing", "effects"]
 }

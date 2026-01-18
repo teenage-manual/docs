@@ -1,6 +1,6 @@
 {
   "name": "CM-15",
-  "image": "te-cm-15.png",
+  "image": "te-cm-15.webp",
   "orientation": "vertical",
   "categoryOrder": ["basics", "recording", "connectivity"]
 }

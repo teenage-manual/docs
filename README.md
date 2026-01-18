@@ -103,8 +103,11 @@ Each device folder contains a `_meta.json` file:
 ### Adding Images
 
 1. Add your image to the `images/` folder
-2. Reference it in the topic frontmatter: `image: "your-image.png"`
-3. Keep images optimized (PNG or WebP, reasonable file size)
+2. Reference it in the topic frontmatter: `image: "your-image.webp"`
+3. **Use WebP format** for best performance (PNG/JPG also accepted - auto-converted during sync)
+4. Keep images optimized (under 500KB ideally)
+
+> **Tip:** Convert images to WebP using: `npx sharp-cli --input image.png --output . --format webp --quality 80`
 
 ### Adding a New Topic
 

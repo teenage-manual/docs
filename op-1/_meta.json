@@ -1,6 +1,6 @@
 {
   "name": "OP-1",
-  "image": "te-op-1.png",
+  "image": "te-op-1.webp",
   "orientation": "horizontal",
   "categoryOrder": ["basics", "synthesis", "sampling", "tape", "sequencing", "effects", "mixing", "connectivity", "advanced"]
 }

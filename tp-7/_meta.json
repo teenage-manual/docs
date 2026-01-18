@@ -1,6 +1,6 @@
 {
   "name": "TP-7",
-  "image": "te-tp-7.png",
+  "image": "te-tp-7.webp",
   "orientation": "vertical",
   "categoryOrder": ["basics", "recording", "connectivity", "advanced"]
 }

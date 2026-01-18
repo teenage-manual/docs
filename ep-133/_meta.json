@@ -1,6 +1,6 @@
 {
   "name": "KO II",
-  "image": "te-ep-133.png",
+  "image": "te-ep-133.webp",
   "orientation": "horizontal",
   "categoryOrder": ["basics", "sampling", "sequencing", "effects", "advanced"],
   "topicOrder": {
